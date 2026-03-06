@@ -1,0 +1,18 @@
+{
+  "name": "udt-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool that help you learn while doing agentic engineering or vibe coding.",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "udt": "index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1"
+  }
+}
